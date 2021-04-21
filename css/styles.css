@@ -10116,6 +10116,18 @@ header.masthead h1 {
   line-height: 2em;
 }
 
+.numbers span {
+  font-size: 32px;
+  font-weight: bold;
+  border-bottom: 2px solid #cfe6e7;
+  padding-bottom: 12px;
+  display: block;
+}
+
+.numbers p {
+  font-size: .7em;
+}
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
