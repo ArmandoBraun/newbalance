@@ -10102,12 +10102,20 @@ header.masthead h1 {
   margin-bottom: 44px;
 }
 .section-img {
-  width: 80%;
+  width: 75%;
+  margin: auto;
+  display: block;
+}
+
+.description-img {
+  width: 90%;
+  border-radius: 16px;
+
 }
 
 .map-section {
   background: url("../assets/img/map-export.svg");
-  background-size: 45%;
+  background-size: 60%;
   background-repeat: no-repeat;
   background-position: center;
 }
