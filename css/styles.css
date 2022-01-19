@@ -394,6 +394,63 @@ width: 10px;
 display: inline-block;
 }
 
+.row-article {
+  padding: 24px;
+  border-radius: 25px;
+}
+
+.row-article p {
+  font-size: 1.1em;
+  color: white;
+  line-height: 1.8em;
+}
+
+.row-article-blue {
+  background: #3f4d74;
+}
+
+.row-article-green {
+  background: #86a7ae;
+}
+
+.row-article-purple {
+  background: #4c3f74;
+}
+
+.col-article-img {
+  background-size: cover;
+  background-position: center;
+}
+.col-article-img-hpqs {
+  background-image: url("../assets/img/hpqs.jpg");
+}
+.col-article-img-invest {
+  background-image: url("../assets/img/invest.jpg");
+}
+.col-article-img-offtake {
+  background-image: url("../assets/img/tanker.jpg");
+}
+
+.navbar-brand-article {
+  color: #212529;
+  background: url("../assets/img/newbalance-icon-color.png");
+  background-size: 34px;
+  background-repeat: no-repeat;
+  width: 34px;
+  height: 34px;
+}
+.nav-item-article {
+  color: #212529 !important;
+}
+
+.nav-item-article:hover {
+  color: #cfe6e7 !important;
+}
+
+.card-muted {
+  opacity: .5;
+}
+
 h1, .h1 {
   font-size: 2.5rem;
 }
@@ -1970,7 +2027,7 @@ pre code {
     border: 0;
   }
   .no-mobile {
-    display: ∂;
+    display: none;
   }
 }
 @media (max-width: 1199.98px) {
