@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+      <loc>https://newbalance.energy/</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>1.00</priority>
+    </url>
+
+    <url>
+      <loc>https://newbalance.energy/hpqs.html</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+
+    <url>
+      <loc>https://newbalance.energy/invest.html</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+
+    <url>
+      <loc>https://newbalance.energy/offtake.html</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>0.80</priority>
+    </url>
+
+    <url>
+      <loc>https://newbalance.energy/index.html</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>0.64</priority>
+    </url>
+
+    <url>
+      <loc>https://newbalance.energy/cover.html</loc>
+      <lastmod>2022-01-19T18:30:24+00:00</lastmod>
+      <priority>0.1</priority>
+    </url>
+
+</urlset>
