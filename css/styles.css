@@ -2006,6 +2006,10 @@ pre code {
   }
 }
 @media (max-width: 767.98px) {
+  .blog-section-content h2 {
+    font-size: 2em;
+  }
+
   .table-responsive-md {
     display: block;
     width: 100%;
