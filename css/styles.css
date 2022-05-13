@@ -2033,9 +2033,6 @@ pre code {
   .table-responsive-lg > .table-bordered {
     border: 0;
   }
-  .no-mobile {
-    display: none!important;
-  }
 }
 @media (max-width: 1199.98px) {
   .table-responsive-xl {
