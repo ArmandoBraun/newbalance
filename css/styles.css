@@ -394,6 +394,13 @@ width: 10px;
 display: inline-block;
 }
 
+.offtake-features {
+  color: #3f4d74;
+  border: 3px solid #3f4d74;
+  border-radius: 8px;
+  padding: 8px;
+
+}
 .row-article {
   padding: 24px;
   border-radius: 25px;
